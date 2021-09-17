@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farhanidrisi
 - 👀 I’m interested in Football ⚽️ 
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on Studies 
+- 💞️ I’m looking to focus on Studies 
 - 📫 Reach me at mdfarhanidrisi707@gmail.com
       
 <!---
